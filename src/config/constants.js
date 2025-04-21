@@ -1,5 +1,5 @@
 
- export const BASE_API = `https://variedadesel184.catalogointeractivo.com.co`;
+ export const BASE_API = `https://variedadesel184.conexion.bar`;
 
 export const SEARCH_HISTORY = "search-history";
 export const CART = "cart";
