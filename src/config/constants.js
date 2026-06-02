@@ -1,5 +1,5 @@
 
- export const BASE_API = `https://variedadesel184.conexion.bar`;
+ export const BASE_API = `https://variedadesel184.cosmoqa.store`;
 
 export const SEARCH_HISTORY = "search-history";
 export const CART = "cart";
