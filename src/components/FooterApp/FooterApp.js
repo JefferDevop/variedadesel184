@@ -43,7 +43,7 @@ export function FooterApp() {
 
         <BtnLink
           link={
-            "https://variedadesel184.catalogointeractivo.com.co/admin-dashboard/"
+            "https://variedadesel184.cosmoqa.store/admin-dashboard/"
           }
           title={"ADMI"}
           logo={<CiUser size={20} />}
